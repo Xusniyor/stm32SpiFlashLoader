@@ -1,0 +1,7 @@
+Loader_Src.c:17:5:Init	8	static
+Loader_Src.c:38:5:Read	24	static
+Loader_Src.c:58:5:Write	24	static
+Loader_Src.c:76:5:MassErase	8	static
+Loader_Src.c:95:5:SectorErase	16	static
+Loader_Src.c:118:10:CheckSum	40	static
+Loader_Src.c:209:10:Verify	64	static

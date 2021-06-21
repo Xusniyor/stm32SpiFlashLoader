@@ -1,0 +1,13 @@
+stm32_eval_spi_flash.c:115:6:sFLASH_DeInit	8	static
+stm32_eval_spi_flash.c:126:6:sFLASH_Init	8	static
+stm32_eval_spi_flash.c:161:6:sFLASH_EraseSector	16	static
+stm32_eval_spi_flash.c:189:6:sFLASH_EraseBulk	8	static
+stm32_eval_spi_flash.c:217:6:sFLASH_WritePage	24	static
+stm32_eval_spi_flash.c:258:6:sFLASH_WriteBuffer	48	static
+stm32_eval_spi_flash.c:336:6:sFLASH_ReadBuffer	24	static
+stm32_eval_spi_flash.c:368:10:sFLASH_ReadID	24	static
+stm32_eval_spi_flash.c:404:6:sFLASH_StartReadSequence	16	static
+stm32_eval_spi_flash.c:428:9:sFLASH_ReadByte	8	static
+stm32_eval_spi_flash.c:439:9:sFLASH_SendByte	32	static
+stm32_eval_spi_flash.c:488:6:sFLASH_WriteEnable	8	static
+stm32_eval_spi_flash.c:506:6:sFLASH_WaitForWriteEnd	16	static
